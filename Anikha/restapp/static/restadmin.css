@@ -1,8 +1,8 @@
 .container
 {
     background-image: url(restimage1.png) ;
-    height: 900px;
-    width: 1800px;
+    height: 700px;
+    width: 1500px;
     background-repeat: no-repeat;
     padding: 10px;
     padding-right: 5px;
@@ -15,27 +15,28 @@
 
 .tab 
 {
-    width: 550px;
-    height: 25px;
+    width: 200px;
+    height: 7px;
     border: 2px solid black;
-    padding: 10px;
-    word-spacing: 70px;
-    background-color: goldenrod;
+    padding: 50px;
+    word-spacing: 10px;
+    background-color: lightgoldenrodyellow;
     text-align: center;
     top: 5px;
     left: 1200px;
     position: relative;
+    font: Arial;
    
 }
 
 .name 
 {
-    color: lightcoral;
+    color: lightgray;
     font-family: fantasy;
     text-align: left;
     position: relative;
     font-size: 300%;
-    top: -120px;
+    top: -190px;
 }
 
 .admin
@@ -88,7 +89,7 @@
     background-color: lightpink;
     position: relative;
     text-align: center;
-    color: lightgray;
-    top: 435px;
-    left:-15px; 
+    color: white;
+    top: 80px;
+    right:10px; 
 }

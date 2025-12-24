@@ -1,8 +1,8 @@
-ntainer
+.container
 {
-    background-image: url(restphoto.png) ;
-    height: 900px;
-    width: 1800px;
+    background-image: url(restimage1.png) ;
+    height: 700px;
+    width: 1500px;
     background-repeat: no-repeat;
     padding: 10px;
     padding-right: 5px;
@@ -14,44 +14,51 @@ ntainer
 }
 .tab 
 {
-    width: 550px;
-    height: 25px;
-    border: 2px solid goldenrod;
+    width: 300px;
+    height: 70px;
+    border: 2px solid black;
     padding: 10px;
     word-spacing: 70px;
-    background-color: goldenrod;
+    background-color: lightgoldenrodyellow;
     text-align: center;
     top: 5px;
-    left: 1200px;
+    left: 1100px;
     position: relative;
    
 }
 .name
 {
-    color: lightcoral;
+    color: lightgray;
     font-family: fantasy;
     text-align: left;
     position: relative;
     font-size: 250%;
-    top: -50px;
+    top: -150px;
 }
 
 .details 
 {
-    color: rgb(0, 0, 0);
+    color: lightgoldenrodyellow;
     position: relative;
     top: -70px;
     left: 50;
     size: 15px;
 }
+.pic
+{ 
+    padding-left: 500;
+    padding-bottom: 500px;
+    margin-top: -400px;
+    
+}
 .copyrights
 {
-    width: 1820px;
+    width: 1990px;
     height: 17px;
     background-color: lightpink;
     position: relative;
     text-align: center;
     color: white;
-    top: 250px;
-    left:-15px; 
+    top: -460px;
+    right:100px; 
 }
