@@ -1,0 +1,57 @@
+ntainer
+{
+    background-image: url(restphoto.png) ;
+    height: 900px;
+    width: 1800px;
+    background-repeat: no-repeat;
+    padding: 10px;
+    padding-right: 5px;
+    background-size: cover;
+    border: 3px solid black ;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family:arial;
+}
+.tab 
+{
+    width: 550px;
+    height: 25px;
+    border: 2px solid goldenrod;
+    padding: 10px;
+    word-spacing: 70px;
+    background-color: goldenrod;
+    text-align: center;
+    top: 5px;
+    left: 1200px;
+    position: relative;
+   
+}
+.name
+{
+    color: lightcoral;
+    font-family: fantasy;
+    text-align: left;
+    position: relative;
+    font-size: 250%;
+    top: -50px;
+}
+
+.details 
+{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: -70px;
+    left: 50;
+    size: 15px;
+}
+.copyrights
+{
+    width: 1820px;
+    height: 17px;
+    background-color: lightpink;
+    position: relative;
+    text-align: center;
+    color: white;
+    top: 250px;
+    left:-15px; 
+}

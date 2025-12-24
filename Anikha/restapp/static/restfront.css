@@ -1,0 +1,71 @@
+.container
+{
+    background-image: url(restimage1.png) ;
+    height: 800px;
+    width: 1500px;
+    background-repeat: no-repeat;
+    padding: 10px;
+    padding-right: 5px;
+    background-size: cover;
+    border: 3px solid black ;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family:sans-serif;
+}
+.tab 
+{
+    width: 450px;
+    height: 25px;
+    border: 2px solid black;
+    padding: 10px;
+    word-spacing: 70px;
+    background-color: white;
+    text-align: center;
+    top: 5px;
+    left: 100px;
+    position: relative;
+   
+}
+.name
+{
+    color : darkgray ;
+    font-family:'Lucida Sans';
+    position: relative;
+    font-size: 300%;
+    top: -130px;
+}
+.quote
+{
+    color: lightcoral;
+    font-size: 180%;    
+    top: -150px;
+    position: relative;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+.quote2
+{
+  color: lightgoldenrodyellow;
+    font-size: 250%;
+    top: -150px;
+    position: relative;
+    text-align: center; 
+    font-family:'Lucida Sans'; 
+}
+.image1
+{
+    position: relative;
+    top: -100px;
+    left: 500px;
+}
+.copyrights
+{
+    width: 1820px;
+    height: 17px;
+    background-color: lightpink;
+    position: relative;
+    text-align: center;
+    color: lightgrey;
+    top: 130px;
+    right: 10px;
+}
